@@ -1,0 +1,43 @@
+*
+{
+  padding:0;
+  margin:0;
+}
+
+
+.bg
+{
+  background-color:#000d57;
+  height:550px;
+  width:50000px;
+  position:fixed;
+}
+
+[class^="box-"]
+{
+  background-color:#ababab;
+  height:270px;
+  font-family:monospace,'Lucida Console';
+  text-align:center;
+}
+
+
+.grid
+{
+  display:grid;
+  grid-template-columns:repeat(3,250px);
+  gap:35px;
+  margin:450px auto auto 360px;
+  position:absolute;
+}
+
+.tit
+{
+  color:white;
+  font-family:'Lucida Console',Monospace;
+  font-size:15px;
+  position:absolute;
+  padding:50px 0px 0px 675px;
+
+
+}  
