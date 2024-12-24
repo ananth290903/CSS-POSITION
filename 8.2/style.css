@@ -1,9 +1,22 @@
+
+*
+{
+  margin-left:0px;
+}
+
 body
 {
     background-color:#bef4d2;
 }
 
+.bd
+{
+  height:780px;
+  width:1300px;
+  margin-left:280px;
+  /* border:1px solid white;*/
 
+}
 
 .bg {
     width: 450px;
@@ -29,7 +42,6 @@ body
 .sbg {
     width: 200px;
     height: 200px;
-    border: 2px solid black;
     border-radius: 50%;
     margin-left:-110px; /* Adjusted to move the center of the small circle */
     margin-top: -170px; /* Positioned to align with the boundary of the large circle */
@@ -105,7 +117,7 @@ body
   margin-top: -550px; /* Originally 0px; decreased by 100px */
   margin-bottom: 0px;
   border: 1px solid black;
-  border-radius:90px;
+  border-radius:60px;
   position: relative;
   background-color:#ffffff;
 }
@@ -116,7 +128,7 @@ body
   width:300px;
   height:50px;
   border:solid 5px black;
-  margin:110px auto auto auto;
+  margin:15px auto auto auto;
 }
 
 .head
