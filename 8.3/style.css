@@ -41,7 +41,7 @@
 .img1
 {
   margin-left:10px;
-  margin-top:5px; */
+  margin-top:5px; 
 }
 
 .box1 p
@@ -89,7 +89,7 @@
   border-radius:25px;
   margin-top:-90px;
   margin-left:-270px;
-  margin-buttom:-30px;
+  margin-bottom:-30px;
   align-items:center;
   gap:3px;
   
@@ -143,10 +143,11 @@
 .phone p
 {
   font:24px solid white;
+  background-color:red;
 }
 
 .whatsapp
 {
-  margin-left:1700px;
+  margin-left:1580px;
   margin-top:150px;
 }
