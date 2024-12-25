@@ -111,6 +111,7 @@
 {
   display:flex;
   flex-direction:row;
+  align-items:flex-end;
   gap:150px;
   margin-left:200px;
   margin-top:70px;
@@ -122,7 +123,10 @@
   height:600px;
   border-radius:90px;
   border:1px solid white;
-  background-image:url("./img/it_eng.avif");
+  box-sizing:border-box;
+  background-image:url("./img/sde.jpg");
+  background-size: 600px 600px;
+;
 }
 
 .phone
@@ -134,8 +138,8 @@
   height:70px;
   border-radius:125px;
   border:1px solid white;
-  margin-left:130px;
-  margin-top:290px;
+  margin-left:175px;
+  margin-top:280px;
   align-items:center;
   gap:30px
 }
@@ -146,8 +150,3 @@
   background-color:red;
 }
 
-.whatsapp
-{
-  margin-left:1580px;
-  margin-top:150px;
-}
