@@ -27,7 +27,7 @@
   display:grid;
   grid-template-columns:repeat(3,250px);
   gap:35px;
-  margin:450px auto auto 360px;
+  margin:450px auto auto 480px;
   position:absolute;
 }
 
@@ -37,7 +37,7 @@
   font-family:'Lucida Console',Monospace;
   font-size:15px;
   position:absolute;
-  padding:50px 0px 0px 675px;
+  padding:50px 0px 0px 810px;
 
 
 }  
